@@ -56,7 +56,7 @@ mvn -version
 curl -fsSL https://get.docker.com | bash
 
 # Set permissions
-sudo chmod 777 /var/lib/docker.sock
+sudo chmod 777 /var/run/docker.sock
 
 # Verify
 docker --version
