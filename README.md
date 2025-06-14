@@ -97,7 +97,6 @@ echo $MAVEN_HOME
 ```bash
 git clone https://github.com/lftraining/LFS148-code.git
 
-
 cd LFS148-code/exercises/automatic-instrumentation/initial/todobackend-springboot
 ```
 
