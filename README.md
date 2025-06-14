@@ -162,6 +162,12 @@ Now will do some POST and DELETE Operation to check for traces
 curl -X POST localhost:8080/todos/NEW
 ```
 ```bash
+curl -X DELETE localhost:8080/todos/NEW
+```
+```bash
+curl -X POST localhost:8080/todos/SHUBHAMDHOLE
+```
+```bash
 curl -X DELETE localhost:8080/todos/SHUBHAMDHOLE
 ```
 
