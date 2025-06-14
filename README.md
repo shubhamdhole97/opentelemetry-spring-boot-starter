@@ -95,8 +95,8 @@ echo $MAVEN_HOME
 ### 5️⃣ Clone GitHub Repository and Build the Application
 
 ```bash
-git clone https://github.com/lftraining/LFS148-code.git
-cd LFS148-code/exercises/automatic-instrumentation/initial/todobackend-springboot
+git clone https://github.com/shubhamdhole97/opentelemetry-spring-boot-starter.git
+cd opentelemetry-spring-boot-starter/exercises/automatic-instrumentation/initial/todobackend-springboot
 ```
 
 Add the following dependency inside the `pom.xml` file:
