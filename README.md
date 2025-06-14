@@ -151,7 +151,7 @@ wget https://github.com/open-telemetry/opentelemetry-java-instrumentation/releas
 2. Run the app with the agent:
 
 ```bash
-java -javaagent:opentelemetry-javaagent.jar -jar todobackend-automatic-0.0.1-SNAPSHOT.jar
+java -javaagent:opentelemetry-javaagent.jar -jar todobackend-0.0.1-SNAPSHOT.jar
 ```
 
 Go to the Webbrowser and visit http://localhost:16686
